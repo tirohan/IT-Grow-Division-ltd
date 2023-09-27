@@ -10,12 +10,8 @@ The User Management System is a simple Python application that allows users to c
   - [Features](#features)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
   - [Usage](#usage)
   - [Database Structure](#database-structure)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
