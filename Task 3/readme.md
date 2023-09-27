@@ -58,6 +58,8 @@ Specify the path to the JSON key file in the code to enable authentication.
 Load data from the Google Sheets document into a pandas DataFrame.
 Conduct detailed data analysis and exploration to gain insights into dataset structure and content.
 Utilize histograms, bar plots, and heat maps for data visualization.
+Data can be found here:
+`https://docs.google.com/spreadsheets/d/1VoDSovZmnMu7dl0PIYf_vFV6TaT7W5InLT7_Naqu-r8/edit?usp=sharing`
 ### 7.2. Data Visualization
 Create dynamic, interactive plots and visualizations for a variety of dataset attributes.
 Leverage system functions to explore crop requirements based on specific soil and environmental conditions.
