@@ -40,3 +40,18 @@ Before running the code, make sure you have the following prerequisites installe
 - Scikit-learn
 
 You can install the required Python packages using `pip`:
+
+`pip install -r requirements.txt`
+## Usage
+
+1. Clone this repository:
+`git clone https://github.com/your-username/mnist-image-classification.git`
+2. Navigate to the project directory:
+`cd mnist-image-classification`
+3. Execute the Jupyter Notebook or Python scripts for the specific tasks you want to run:
+
+   - `mnist_image_classification.ipynb`: Jupyter Notebook for the entire project, including data preprocessing, model training, and evaluation.
+
+   - Other scripts: Individual Python scripts for specific tasks (e.g., anomaly detection, 3D visualization).
+
+4. Follow the documentation for detailed instructions on running and understanding the project.
