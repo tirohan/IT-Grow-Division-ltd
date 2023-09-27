@@ -1,4 +1,4 @@
-# Google Spreadsheet API Automation and data alaysis
+# Google Spreadsheet API Automation and data analysis
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@
 
 ## 1. Introduction
 
-Welcome to the Crop Recommendation System documentation. This system is designed to empower farmers by providing data-driven recommendations for crop selection, based on comprehensive analysis of environmental and soil conditions.
+Welcome to the Crop Recommendation System documentation. This system is designed to empower farmers by providing data-driven recommendations for crop selection, based on the comprehensive analysis of environmental and soil conditions.
 
 ## 2. Features
 
@@ -28,10 +28,7 @@ The Crop Recommendation System offers a range of powerful features to assist far
 - **Data Update Functionality**: Effortlessly update Google Sheets data from within the system.
 
 ## 3. Demo
-
-For a hands-on experience, check out our [live demo](https://your-demo-link.com). The demo showcases the system's capabilities and user interface.
-
-![Crop Recommendation System Demo](demo.gif)
+The demo showcases the system's capabilities and user interface. It can be found in the notebook file.
 
 ## 4. Prerequisites
 
@@ -60,7 +57,7 @@ Specify the path to the JSON key file in the code to enable authentication.
 ### 7.1. Data Loading and Analysis
 Load data from the Google Sheets document into a pandas DataFrame.
 Conduct detailed data analysis and exploration to gain insights into dataset structure and content.
-Utilize histograms, bar plots, and heatmaps for data visualization.
+Utilize histograms, bar plots, and heat maps for data visualization.
 ### 7.2. Data Visualization
 Create dynamic, interactive plots and visualizations for a variety of dataset attributes.
 Leverage system functions to explore crop requirements based on specific soil and environmental conditions.
