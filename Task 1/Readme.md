@@ -50,7 +50,7 @@ You can install the required Python packages using `pip`:
 `cd mnist-image-classification`
 3. Execute the Jupyter Notebook or Python scripts for the specific tasks you want to run:
 
-   - `mnist_image_classification.ipynb`: Jupyter Notebook for the entire project, including data preprocessing, model training, and evaluation.
+   - `MNIST_Task1.ipynb`: Jupyter Notebook for the entire project, including data preprocessing, model training, and evaluation.
 
    - Other scripts: Individual Python scripts for specific tasks (e.g., anomaly detection, 3D visualization).
 
